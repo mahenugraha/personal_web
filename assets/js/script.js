@@ -137,6 +137,6 @@ for (let i = 0; i < navigationLinks.length; i++) {
     let email = document.getElementById('email').value
     let message = document.getElementById('message').value
 
-    window.open(`mailto:bayurifkialgh@gmail.com?subject=Hello%20Bayu!&body=Hi%20Bayu%2C%0D%0A%0D%0A${name}%0D%0A${email}%0D%0A${message}`)
+    window.open(`mailto:mahenugrahaa@gmail.com?subject=Hello%20Bayu!&body=Hi%20Bayu%2C%0D%0A%0D%0A${name}%0D%0A${email}%0D%0A${message}`)
   })
 }
